@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: TONY-CHINWE-ONE
+
+
+logging:
+  file:
+    name: \Users\User\Documents\logs\elk-stack.log
